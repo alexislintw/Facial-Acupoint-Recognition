@@ -30,7 +30,7 @@ pos.x = nose[4].x
 pos.y = (nose[4].y - outerLips[2].y) / 3 。
 
 ### UI Flow 使用者介面與流程
-![ui flow](https://github.com/alexislintw/XueDaoCare/blob/master/report/uiflow.png)
+![ui flow](https://github.com/alexislintw/XueDaoCare/blob/master/report/ui_flow.png)
 
 ### Screenshots 螢幕截圖
 ![screen shot 1](https://github.com/alexislintw/XueDaoCare/blob/master/report/ScreenShot_1.png)
