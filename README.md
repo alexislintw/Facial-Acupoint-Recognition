@@ -19,15 +19,24 @@
 ![face landmark - points](https://github.com/alexislintw/XueDaoCare/blob/master/report/pic1.png)
 ![face landmark - lines](https://github.com/alexislintw/XueDaoCare/blob/master/report/pic2.png)
 
-- 取穴測量
+##### 取穴測量
 利用傳統中醫取穴的長度標準『同身寸』，亦即以患者本身體表的某些標誌作為測量單位，例如第二至五指合併（即四橫指）之長度為三寸。
 
 ![face landmark - lines](https://github.com/alexislintw/XueDaoCare/blob/master/report/pic3.png)
 
-- 穴位座標計算
+##### 穴位座標計算
 依據上述原理，以 landmarks 作為兩端端點，並以同身寸的比例值計算出臉部座標。以水溝穴(人中)為例，水溝穴鼻唇溝內，鼻下三分之一處。計算方式為，
 pos.x = nose[4].x
 pos.y = (nose[4].y - outerLips[2].y) / 3 。
+
+### UI Flow 使用者介面與流程
+![ui flow](https://github.com/alexislintw/XueDaoCare/blob/master/report/uiflow.png)
+
+### Screenshots 螢幕截圖
+![screen shot 1](https://github.com/alexislintw/XueDaoCare/blob/master/report/ScreenShot_1.png)
+![screen shot 2](https://github.com/alexislintw/XueDaoCare/blob/master/report/ScreenShot_2.png)
+![screen shot 3](https://github.com/alexislintw/XueDaoCare/blob/master/report/ScreenShot_3.png)
+![screen shot 4](https://github.com/alexislintw/XueDaoCare/blob/master/report/ScreenShot_4.png)
 
 ### Future Work 未來研究
 
