@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>title</key>
+		<string>鼻塞</string>
+		<key>xue_dao_id</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>夜盲症</string>
+		<key>xue_dao_id</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>眼睛疲勞</string>
+		<key>xue_dao_id</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>飛蚊症</string>
+		<key>xue_dao_id</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>長口瘡</string>
+		<key>xue_dao_id</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>牙痛</string>
+		<key>xue_dao_id</key>
+		<integer>12</integer>
+	</dict>
+</array>
+</plist>

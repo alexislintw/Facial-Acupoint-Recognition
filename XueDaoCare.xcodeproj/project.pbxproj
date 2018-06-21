@@ -7,14 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E690B4320CFBA8C008CA740 /* symptom.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B4120CFBA8C008CA740 /* symptom.plist */; };
+		5E690B4420CFBA8C008CA740 /* XueDaoList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B4220CFBA8C008CA740 /* XueDaoList.plist */; };
+		5E690B4620CFC16E008CA740 /* SymptomListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E690B4520CFC16D008CA740 /* SymptomListTableViewController.swift */; };
+		5E690B5620CFD215008CA740 /* all.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B4820CFD215008CA740 /* all.jpg */; };
+		5E690B5720CFD215008CA740 /* xd_08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B4920CFD215008CA740 /* xd_08.jpg */; };
+		5E690B5820CFD215008CA740 /* xd_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B4A20CFD215008CA740 /* xd_09.jpg */; };
+		5E690B5920CFD215008CA740 /* xd_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B4B20CFD215008CA740 /* xd_10.jpg */; };
+		5E690B5A20CFD215008CA740 /* xd_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B4C20CFD215008CA740 /* xd_04.jpg */; };
+		5E690B5B20CFD215008CA740 /* xd_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B4D20CFD215008CA740 /* xd_05.jpg */; };
+		5E690B5C20CFD215008CA740 /* xd_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B4E20CFD215008CA740 /* xd_11.jpg */; };
+		5E690B5D20CFD215008CA740 /* xd_07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B4F20CFD215008CA740 /* xd_07.jpg */; };
+		5E690B5E20CFD215008CA740 /* xd_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B5020CFD215008CA740 /* xd_13.jpg */; };
+		5E690B5F20CFD215008CA740 /* xd_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B5120CFD215008CA740 /* xd_12.jpg */; };
+		5E690B6020CFD215008CA740 /* xd_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B5220CFD215008CA740 /* xd_06.jpg */; };
+		5E690B6120CFD215008CA740 /* xd_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B5320CFD215008CA740 /* xd_02.jpg */; };
+		5E690B6220CFD215008CA740 /* xd_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B5420CFD215008CA740 /* xd_03.jpg */; };
+		5E690B6320CFD215008CA740 /* xd_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E690B5520CFD215008CA740 /* xd_01.jpg */; };
+		5E690B6520CFD569008CA740 /* AllXueDaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E690B6420CFD569008CA740 /* AllXueDaoViewController.swift */; };
 		5ED9D5C720CD218600786B8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED9D5C620CD218600786B8F /* AppDelegate.swift */; };
 		5ED9D5C920CD218600786B8F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED9D5C820CD218600786B8F /* ViewController.swift */; };
 		5ED9D5CC20CD218600786B8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED9D5CA20CD218600786B8F /* Main.storyboard */; };
 		5ED9D5CE20CD218700786B8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ED9D5CD20CD218700786B8F /* Assets.xcassets */; };
 		5ED9D5D120CD218700786B8F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED9D5CF20CD218700786B8F /* LaunchScreen.storyboard */; };
+		5ED9D5D920CD234A00786B8F /* XueDaoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED9D5D820CD234A00786B8F /* XueDaoListTableViewController.swift */; };
+		5ED9D5DD20CD2FFF00786B8F /* XueDaoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED9D5DC20CD2FFF00786B8F /* XueDaoDetailViewController.swift */; };
+		5ED9D5E220CD3B1400786B8F /* FaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED9D5E120CD3B1400786B8F /* FaceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5E690B4120CFBA8C008CA740 /* symptom.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = symptom.plist; sourceTree = "<group>"; };
+		5E690B4220CFBA8C008CA740 /* XueDaoList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = XueDaoList.plist; sourceTree = "<group>"; };
+		5E690B4520CFC16D008CA740 /* SymptomListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SymptomListTableViewController.swift; sourceTree = "<group>"; };
+		5E690B4820CFD215008CA740 /* all.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = all.jpg; sourceTree = "<group>"; };
+		5E690B4920CFD215008CA740 /* xd_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_08.jpg; sourceTree = "<group>"; };
+		5E690B4A20CFD215008CA740 /* xd_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_09.jpg; sourceTree = "<group>"; };
+		5E690B4B20CFD215008CA740 /* xd_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_10.jpg; sourceTree = "<group>"; };
+		5E690B4C20CFD215008CA740 /* xd_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_04.jpg; sourceTree = "<group>"; };
+		5E690B4D20CFD215008CA740 /* xd_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_05.jpg; sourceTree = "<group>"; };
+		5E690B4E20CFD215008CA740 /* xd_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_11.jpg; sourceTree = "<group>"; };
+		5E690B4F20CFD215008CA740 /* xd_07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_07.jpg; sourceTree = "<group>"; };
+		5E690B5020CFD215008CA740 /* xd_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_13.jpg; sourceTree = "<group>"; };
+		5E690B5120CFD215008CA740 /* xd_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_12.jpg; sourceTree = "<group>"; };
+		5E690B5220CFD215008CA740 /* xd_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_06.jpg; sourceTree = "<group>"; };
+		5E690B5320CFD215008CA740 /* xd_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_02.jpg; sourceTree = "<group>"; };
+		5E690B5420CFD215008CA740 /* xd_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_03.jpg; sourceTree = "<group>"; };
+		5E690B5520CFD215008CA740 /* xd_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xd_01.jpg; sourceTree = "<group>"; };
+		5E690B6420CFD569008CA740 /* AllXueDaoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AllXueDaoViewController.swift; sourceTree = "<group>"; };
 		5ED9D5C320CD218600786B8F /* XueDaoCare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XueDaoCare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ED9D5C620CD218600786B8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5ED9D5C820CD218600786B8F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +61,9 @@
 		5ED9D5CD20CD218700786B8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5ED9D5D020CD218700786B8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5ED9D5D220CD218700786B8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5ED9D5D820CD234A00786B8F /* XueDaoListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XueDaoListTableViewController.swift; sourceTree = "<group>"; };
+		5ED9D5DC20CD2FFF00786B8F /* XueDaoDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XueDaoDetailViewController.swift; sourceTree = "<group>"; };
+		5ED9D5E120CD3B1400786B8F /* FaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +77,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5E690B4020CFBA8C008CA740 /* data */ = {
+			isa = PBXGroup;
+			children = (
+				5E690B4120CFBA8C008CA740 /* symptom.plist */,
+				5E690B4220CFBA8C008CA740 /* XueDaoList.plist */,
+			);
+			path = data;
+			sourceTree = SOURCE_ROOT;
+		};
+		5E690B4720CFD215008CA740 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				5E690B4820CFD215008CA740 /* all.jpg */,
+				5E690B4920CFD215008CA740 /* xd_08.jpg */,
+				5E690B4A20CFD215008CA740 /* xd_09.jpg */,
+				5E690B4B20CFD215008CA740 /* xd_10.jpg */,
+				5E690B4C20CFD215008CA740 /* xd_04.jpg */,
+				5E690B4D20CFD215008CA740 /* xd_05.jpg */,
+				5E690B4E20CFD215008CA740 /* xd_11.jpg */,
+				5E690B4F20CFD215008CA740 /* xd_07.jpg */,
+				5E690B5020CFD215008CA740 /* xd_13.jpg */,
+				5E690B5120CFD215008CA740 /* xd_12.jpg */,
+				5E690B5220CFD215008CA740 /* xd_06.jpg */,
+				5E690B5320CFD215008CA740 /* xd_02.jpg */,
+				5E690B5420CFD215008CA740 /* xd_03.jpg */,
+				5E690B5520CFD215008CA740 /* xd_01.jpg */,
+			);
+			path = images;
+			sourceTree = SOURCE_ROOT;
+		};
 		5ED9D5BA20CD218600786B8F = {
 			isa = PBXGroup;
 			children = (
@@ -54,12 +126,19 @@
 		5ED9D5C520CD218600786B8F /* XueDaoCare */ = {
 			isa = PBXGroup;
 			children = (
+				5E690B4720CFD215008CA740 /* images */,
+				5E690B4020CFBA8C008CA740 /* data */,
 				5ED9D5C620CD218600786B8F /* AppDelegate.swift */,
 				5ED9D5C820CD218600786B8F /* ViewController.swift */,
 				5ED9D5CA20CD218600786B8F /* Main.storyboard */,
 				5ED9D5CD20CD218700786B8F /* Assets.xcassets */,
 				5ED9D5CF20CD218700786B8F /* LaunchScreen.storyboard */,
 				5ED9D5D220CD218700786B8F /* Info.plist */,
+				5ED9D5D820CD234A00786B8F /* XueDaoListTableViewController.swift */,
+				5E690B4520CFC16D008CA740 /* SymptomListTableViewController.swift */,
+				5E690B6420CFD569008CA740 /* AllXueDaoViewController.swift */,
+				5ED9D5DC20CD2FFF00786B8F /* XueDaoDetailViewController.swift */,
+				5ED9D5E120CD3B1400786B8F /* FaceViewController.swift */,
 			);
 			path = XueDaoCare;
 			sourceTree = "<group>";
@@ -122,9 +201,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E690B5D20CFD215008CA740 /* xd_07.jpg in Resources */,
 				5ED9D5D120CD218700786B8F /* LaunchScreen.storyboard in Resources */,
+				5E690B6220CFD215008CA740 /* xd_03.jpg in Resources */,
+				5E690B6120CFD215008CA740 /* xd_02.jpg in Resources */,
+				5E690B5720CFD215008CA740 /* xd_08.jpg in Resources */,
+				5E690B5E20CFD215008CA740 /* xd_13.jpg in Resources */,
+				5E690B5920CFD215008CA740 /* xd_10.jpg in Resources */,
+				5E690B4420CFBA8C008CA740 /* XueDaoList.plist in Resources */,
+				5E690B4320CFBA8C008CA740 /* symptom.plist in Resources */,
+				5E690B5C20CFD215008CA740 /* xd_11.jpg in Resources */,
+				5E690B5F20CFD215008CA740 /* xd_12.jpg in Resources */,
+				5E690B6020CFD215008CA740 /* xd_06.jpg in Resources */,
+				5E690B6320CFD215008CA740 /* xd_01.jpg in Resources */,
+				5E690B5820CFD215008CA740 /* xd_09.jpg in Resources */,
+				5E690B5620CFD215008CA740 /* all.jpg in Resources */,
 				5ED9D5CE20CD218700786B8F /* Assets.xcassets in Resources */,
 				5ED9D5CC20CD218600786B8F /* Main.storyboard in Resources */,
+				5E690B5B20CFD215008CA740 /* xd_05.jpg in Resources */,
+				5E690B5A20CFD215008CA740 /* xd_04.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,7 +230,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E690B6520CFD569008CA740 /* AllXueDaoViewController.swift in Sources */,
+				5ED9D5D920CD234A00786B8F /* XueDaoListTableViewController.swift in Sources */,
+				5E690B4620CFC16E008CA740 /* SymptomListTableViewController.swift in Sources */,
 				5ED9D5C920CD218600786B8F /* ViewController.swift in Sources */,
+				5ED9D5E220CD3B1400786B8F /* FaceViewController.swift in Sources */,
+				5ED9D5DD20CD2FFF00786B8F /* XueDaoDetailViewController.swift in Sources */,
 				5ED9D5C720CD218600786B8F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -283,6 +383,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = W5HZ5NRXD4;
 				INFOPLIST_FILE = XueDaoCare/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -301,6 +402,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = W5HZ5NRXD4;
 				INFOPLIST_FILE = XueDaoCare/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
