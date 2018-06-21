@@ -14,6 +14,9 @@
 
 - WWDC 17 發表的 iOS 11 內建了功能強大的機器學習與電腦視覺應用套件，即 CoreML 和 Vision framework。Vision 提供了一個圖像處理的 pipeline 架構，讓開發者可以輕鬆地開發圖像處理的相關應用。與舊版的 CIDetector 的最大差別是，Vision 介接了 CoreML，運用深度學習訓練的模型來進行圖像處理，因此，在臉部辨識的結果表現上可以更加細緻。Face landmark detection 可標示出臉部輪廓、眼睛、眉毛、鼻樑、鼻翼、嘴唇內緣、嘴唇外緣、瞳孔、中軸等位置，共有65個特徵點。 圖片解析的流程是，將 Requests 提供給一個 RequestHandler，Handler 存有圖片資訊，並將處理結果發送到 Request 的 completion Block 中，就可以從 results 屬性中得到 Observations 陣列。
 
+![face landmark - points](https://drive.google.com/open?id=18lNSSne6XCIKoc9QxNll3dL_LIE5t31Y)
+![face landmark - lines](https://drive.google.com/open?id=18lNSSne6XCIKoc9QxNll3dL_LIE5t31Y)
+
 - 取得臉部特徵點的方式則是，從 VNFaceObservation 的 landmarks 屬性中取出allPointsf、aceContour、leftEye、rightEye、leftEyebrow、rightEyebrow、nose、noseCrest、medianLine、outerLips、innerLips、leftPupil、rightPupil 13個屬性，共包含65個特徵點的座標值。
 
 - 取穴測量
