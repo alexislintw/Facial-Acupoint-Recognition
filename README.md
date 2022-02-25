@@ -1,8 +1,12 @@
-# 穴道照護小幫手
+# Health Care with Acupoint Recognition 穴道照護小幫手
 
 ### Introduction  簡介
 
+- Developed a health application app to suggest the acupuncture point by symptoms, built with iOS and Swift.
+- Used the Apple Vision Framework and Core ML to perform face landmark detection.
+
 - 為了協助人們提升自我照護的能力，在生活中遇到小病小痛時，可以快速且正確地進行穴道按摩，以緩解症狀，因此，本作品運用智慧型手機(iPhone)及其軟體開發環境(Xcode)，調用iOS內建的人臉辨識與機器學習之開發套件，提供一個具備即時辨識使用者臉部特徵點並顯示臉部穴道位置之功能的行動應用軟體(App)。
+
 
 ### Problem Description 問題說明
 
