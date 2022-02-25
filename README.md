@@ -1,4 +1,4 @@
-# Acupoint Recognition 穴道照護小幫手
+# Facial Acupoint Recognition 穴道照護小幫手
 
 ### Introduction  簡介
 
