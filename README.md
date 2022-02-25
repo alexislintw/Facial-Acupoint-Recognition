@@ -1,4 +1,4 @@
-# Health Care with Acupoint Recognition 穴道照護小幫手
+# Acupoint Recognition 穴道照護小幫手
 
 ### Introduction  簡介
 
